@@ -12,3 +12,13 @@
 
                 WHERE Trade.InstrumentId=LastTrade.InstrumentId 
                 AND Trade.DateTimeEn=LastTrade.DateTimeEn
+
+
+<p>
+این پروژه از نوع asp.net core  web Api است پس از اجرای پروژه جهت ارسال درخواست  به صورت زیر عمل کنید :
+
+
+</p>
+ <b>
+https://localhost:7157/LastTrade?date=2020-03-03
+  </b>

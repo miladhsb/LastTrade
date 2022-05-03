@@ -15,12 +15,10 @@
 
 
 <p>
-این پروژه از نوع asp.net core  web Api است پس از اجرای پروژه جهت ارسال درخواست از دستور زیر استفاده نمایید :
+این پروژه از نوع asp.net core  web Api است پس از اجرای پروژه جهت ارسال درخواست از به صورت زیر عمل کنید :
 
 
 </p>
  <b>
-  curl -X 'GET' \
-  'https://localhost:7157/LastTrade/{id}?date=2020-02-02' \
-  -H 'accept: application/json'
+https://localhost:7157/LastTrade/{id}?date=2020-02-02
   </b>

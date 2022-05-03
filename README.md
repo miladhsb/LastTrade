@@ -16,10 +16,11 @@
 
 <p>
 این پروژه از نوع asp.net core  web Api است ارسال اطلاعات از دستور زیر استفاده نمایید :
+
+
+</p>
  <b>
   curl -X 'GET' \
   'https://localhost:7157/LastTrade/{id}?date=2020-02-02' \
   -H 'accept: application/json'
   </b>
-
-</p>

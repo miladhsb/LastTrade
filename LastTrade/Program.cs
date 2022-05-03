@@ -25,7 +25,7 @@ app.UseHttpsRedirection();
 
 
 
-app.MapGet("/LastTrade/{id}", async (DateTime? date) =>
+app.MapGet("/LastTrade", async (DateTime? date) =>
  {
 
      var _TradeService = (ITradeService)app.Services.GetRequiredService(typeof(ITradeService));

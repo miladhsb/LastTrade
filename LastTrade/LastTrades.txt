@@ -1,0 +1,1 @@
+[{"id":6,"InstrumentId":1,"Shortname":"AAPL","DateTimeEn":"2021-01-01T00:00:00","Open":1007.0000,"High":2007.0000,"Low":307.0000,"Close":407.0000}]

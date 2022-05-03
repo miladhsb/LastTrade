@@ -1,6 +1,7 @@
 <h2>کوئری دریافت اطلاعات نماد</h2>
 
- SELECT Trade.*, Instrument.*
+
+                 SELECT Trade.*, Instrument.*
                 FROM Instrument INNER JOIN
                 Trade ON Instrument.Id = Trade.InstrumentId
                 

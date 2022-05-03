@@ -20,5 +20,5 @@
 
 </p>
  <b>
-https://localhost:7157/LastTrade/{id}?date=2020-02-02
+https://localhost:7157/LastTrade?date=2020-03-03
   </b>
